@@ -1,6 +1,3 @@
-# firstrepository ( 1 update )
+# firstrepository 
 
 first repository for work
-1
-1
-1
